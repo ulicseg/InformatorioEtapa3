@@ -2,6 +2,9 @@
 Estudio de Mercado E-Commerce Brasil
 [Análisis de Competencia y Oportunidades de Expansión | Período: 2016 - 2018 ](https://github.com/ulicseg/InformatorioEtapa3/blob/main/Proyecto%20Final%20Dashboards%2C%20Optimizaci%C3%B3n%20y%20Data%20Storytelling.pbix)
 
+[CORREGIDO](https://github.com/ulicseg/InformatorioEtapa3/blob/main/Proyecto%20Final%20Correccion.pbix)
+
+
 
 # Trabajo Práctico - Power-BI (Informatorio) LAB 2
 
